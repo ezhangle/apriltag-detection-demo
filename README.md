@@ -9,6 +9,6 @@ apriltag detection  for  id   and 4 point for  each tag
  ./apriltag-detection-demo    6\*12.jpeg  
  
  result:  
- ![img](./build/ 6\*12.jpeg)
+  ![img](./build/6\*12.jpeg)
  
  
